@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seamens case with respest [sic] to their service in the navy wherein divers hardships which they undergo are truly stated, and humbly presented to his Majesty and both houses of Parliament. By John Dennis, Philo Patriæ.</title>
+            <author>Dennis, John, 1657-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81310</idno>
+            <idno type="STC">Wing D1043</idno>
+            <idno type="STC">ESTC R231065</idno>
+            <idno type="EEBO-CITATION">99899723</idno>
+            <idno type="PROQUEST">99899723</idno>
+            <idno type="VID">135158</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135158)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2427:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seamens case with respest [sic] to their service in the navy wherein divers hardships which they undergo are truly stated, and humbly presented to his Majesty and both houses of Parliament. By John Dennis, Philo Patriæ.</title>
+                  <author>Dennis, John, 1657-1734.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Page [3] has caption title: The address presented to the Lords of the Admiralty in Feb. 1698[/]9.</note>
+                  <note>Publication date in Wing = [1698-99].</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:135158:1" rendition="simple:additions"/>
+            <head>The <hi>Seamens CASE</hi> with reſpest to their Service in the Navy, wherein divers Hardſhips which they undergo are truly ſtated, and humbly preſented to His Majeſty and both Houſes of Parliament. By <hi>John Dennis,</hi> Philo Patriae.</head>
+            <div n="1" type="grievance">
+               <head>The Firſt GRIEVANCE is QUERIES.</head>
+               <head type="sub">THE Nature and Effect of thoſe Queries are, That every Man ſet on Shoar ſick, and not returning to his proper Ship or ſome other in one Month, or immediately after diſcharg'd from ſick Quarters, thereby forfeits his Wages.</head>
+               <p>
+                  <hi>That the ſame is a Grievance which ought to be removed. See</hi> Addreſs to the Admiralty, Sect. 1. <hi>To which ſhall add,</hi>
+                  <list>
+                     <item>1. That many have been ſet on Shoar in a deplorable Condition, and either died in the Boats; or in the Strees, or as ſoon as received into Quarters, others ſet on Shoar where there have not been any Perſon appointed to take care of them.</item>
+                     <item>2. Many have been Impreſt from ſick Quarters before recovered, and hurried on board other Ships, and there ſoon after died; which Practice has not a little increaſed the Mortality of the Seamen, and by this means their Widows, Families, and Relations have not only loſt their Providers, but alſo their Wages, as well in the Ships from which they were ſet ſick on Shoar, as thoſe wherein they died; not knowing what Ships they were Impreſt into.</item>
+                     <item>3. Many have liv'd to return in ſuch Ships whereinto they were Impreſt, but not being able to prove they were Impreſt, by reaſon of the Death or Removal of the Officer that Impreſt them, notwithſtanding their continuance in the Service their Wages have been denied.</item>
+                     <item>4. Thoſe that were ſet ſick a-Shoar, have for the moſt part been rendered uncapable to return to their proper Ships, being deprived of (or not al<g ref="char:EOLhyphen"/>lowed) the Conduct-Money appointed them; and inſtead thereof have been forced to ſell or pawn, not only their Cloaths, (that is ſuch as had any) but alſo their Wages for their Subſiſtance before they were recovered or fit to travel.</item>
+                     <item>5. The Seamen having juſtly and with great difficulty earn'd their Wages, and the Nation granted ſuteable Funds for the Payment thereof. How conſiſtant it is with the Conſtitution of this Government, the inviolable Laws of the Realm, the credit of His Majeſty's Service, or the Encourage<g ref="char:EOLhyphen"/>ment of Seamen, ſhall humbly ſubmit to the Conſideration of the Partons of our Country.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="2" type="grievance">
+               <head>The Second GRIEVANCE is RR's.</head>
+               <head type="sub">And thoſe <hi>RR's,</hi> have of late been ſtrenuouſly obſerved, if not improved to the Seaman's Prejudice. The Nature or Effect of thoſe RR's as now practiſed, is, That the Perſons who by accident or otherwiſe, do leave or are left by their proper Ships, are by thoſe <hi>RR's</hi> noted to be Run, and forfeit all the Wages due to them, not only in the Ships they leave, but in all former Ships as far as the ſame is unpaid, notwithſtanding Tickets long before delivered them for their former ſervice; by what new Laws or Orders this is practis'd I cannot ſay, but am well aſſur'd 'tis contrary to the former Practice and Rules of the Navy.</head>
+               <p>
+                  <hi>See Reaſons to redreſs this,</hi> Sect. 2. <hi>in</hi> the Addreſs to the Admiralty. <hi>To which ſhall further add,</hi>
+                  <list>
+                     <item>1. That ſuch Wages (had not Money been wanting) would have been paid long before it became forfeited.</item>
+                     <item>2. Thoſe Tickets and the Wages due by the ſame, have been aſſigned and transferred to others long before ſuch forfeiture; and as ſuch Debts cannot be releaſed by the Party without conſent of the Aſſignee, ſo I humbly conceive they cannot be forfeited, even in Caſes of Felony or Treaſon; the Right in Equity being in the Aſſignee and not in the Party.</item>
+                     <item>3. That many have deſerted the Nation, and either entered into forein Service, or turned Pirates: And it may reaſonably be feared, that thoſe and other Hardſhips as they have endured, have not been the leaſt Inducements to it.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="3" type="grievance">
+               <head>The Third GRIEVANCE is,</head>
+               <head type="sub">The deferring or non-payment of the Wages of ſuch as are dead or abſent, notwithſtanding others have attended with ſuffi<g ref="char:EOLhyphen"/>cient Power to receive the ſame, and no colour of Objection, and thoſe to whom it's due ready to periſh for want: to ſuch there is ſeveral <hi>100000 <abbr>l.</abbr>
+                  </hi> now due and in Arrears, which ſhould have been long ſince paid.</head>
+               <p>As I have no reaſon to take up any time in aſſerting the Juſtice of their Caſe, ſo preſume I can aſſign no greater Motive for their ſpeedy Payment, than the poor and diſtreſſed condition in which they yet remain, with their loud and clamorous Cries, which have ſounded through the whole Na<g ref="char:EOLhyphen"/>tion: and ſhall only add this, That their Monies being ſo long ſince earned, and the Ships for that time alſo long ſince paid, many of them have fallen into the Hands of Impatient Creditors, and by them thrown into Priſon, to their utter Ruin. And whereas in my <hi>Addreſs to the Admiralty;</hi> 'twas hinted that ſome Seamen loſt 10 or 12 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 
+                  <hi>per <abbr>l.</abbr>
+                  </hi> by their Tickets: I have ſince been well aſſured that many of thoſe that belonged to the Ships laid up at <hi>Plymouth,</hi> had not above 6 or 7 <hi>
+                     <abbr>s.</abbr> per <abbr>l.</abbr>
+                  </hi> for their Tickets.</p>
+            </div>
+            <div n="4" type="grievance">
+               <head>The Fourth GRIEVANCE is, Intricacy of Payment, <hi>viz.</hi>
+               </head>
+               <head type="sub">Some Ships that have three or four Years Pay due, have been paid only ten or twelve Months, the latter time, and the former left unpaid upon account of their Companies being turned over into other Ships.</head>
+               <head type="sub">
+                  <hi>2dly.</hi> Some Ships paid for the whole time, yet many People left unpaid.</head>
+               <p>
+                  <hi>As Reaſons to redreſs this ſhall humbly offer,</hi>
+                  <list>
+                     <item>1. That ſuch Men as are thus turned over, do ſeldom exceed one fourth part of the Ship's Company, and not ⅓ of thoſe remain in ſuch later Ships till they are paid off, and few or none of thoſe but have their Wives and Relations ready to attend the Payment of the proper Ships, who have often taken expenſive Journeys for the ſame; but to their great Diſappointment have been denied their Wages.</item>
+                     <item>2. Such later Ships have been paid, and the Wages for the former not paid at that time.</item>
+                     <item>3. The Paying of the Wages of ſome Perſons, and leaving others to a Recal when a general Pay is intended, as it is not juſt ſo the Conſequences thereof have tended to the ruin of many.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="5" type="grievance">
+               <pb facs="tcp:135158:2"/>
+               <head>The Fifth GRIEVANCE is,</head>
+               <head type="sub">Turning Men over from Ship to Ship, lending them, and bearing them by Liſt, that they know not in what Ship, nor by what means they may obtain their Wages.</head>
+               <p>That this is a Grievance and Hardſhip is in it ſelf evident, but that it ſhould alſo be laden with the loſs of their Wages, ſeems very unreaſonable.</p>
+            </div>
+            <div n="6" type="grievance">
+               <head>The Sixth GRIEVANCE is the Alteration of Officers Qualities.</head>
+               <head type="sub">By this their Wages have been retrenched, ſome from <hi>3 <abbr>l.</abbr>
+                  </hi> to <hi>36 <abbr>s.</abbr>
+                  </hi> others from <hi>36</hi> to <hi>23 <abbr>s.</abbr>
+                  </hi> &amp;c.</head>
+               <p>
+                  <hi>As Reaſons why this ought not to be practized, ſhall offer,</hi>
+                  <list>
+                     <item>1. That ever perſon officiating in any Office or Imployment, and ſo rated in the Ships Book, ought to have the Wages allow'd by His Majeſty for the ſame.</item>
+                     <item>2. 'Tis a great Diſcouragement to able and ingenious Seamen to do the Duty, and bear the Burthen of ſuch Imploys, and ſee ſome Servant or ig<g ref="char:EOLhyphen"/>norant Favourite receive the Wages.</item>
+                     <item>3. Such Perſons eſpecially where Tickets are made out have the Teſtimony of the proper Officers, that they have ſerved (as, and ought to have the Wages due to Perſons) in ſuch Stations; and in caſe there be more Officers born than the rate of the Ships will admit, the Captain and Officers ſo rating of them, ought to ſuſtain the Loſs and indemnify His Majeſty; it being intirely in their Breaſts to prevent the ſame.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="7" type="grievance">
+               <pb facs="tcp:135158:3"/>
+               <head>The Seventh GRIEVANCE is,</head>
+               <head type="sub">Non-payment of Powers or Letters of Attorney made to Officers; that is, if any Officer's Father, Brother, Relation, or any other Friend hath ſerved in the Navy, and hath made a Letter of Attorney to ſuch Officer to receive the Wages, he is de<g ref="char:EOLhyphen"/>nied payment of the ſame.</head>
+               <p>As for this Order, how good ſoever the deſign might be in making the ſame, to prevent ſuch Frauds as might happen by the irregular bearing, or rateing of Seamen for the Officers advantage; yet being unlimited; as well for Time as Circumſtance, proves to ſeveral a Hardſhip and Grievance.</p>
+               <p>
+                  <hi>As Reaſons to mitigate the ſame, ſhall offer,</hi>
+                  <list>
+                     <item>1. That many of thoſe Powers or Letters of Attorney were made long before this Order; and 'tis hard to be puniſhed for breaking a Law before made.</item>
+                     <item>2. That many of thoſe Perſons ſerving were Servants to the ſaid Officers, and whom they might then entertain as ſuch; according to the conſtant Practice of the Navy.</item>
+                     <item>3. Others have ſupplied, or actually paid and ſatisfied the Parties ſerving, and the Wages due, belongs in right to ſuch Officers, and not to the Parties.</item>
+                     <item>4. The ſaid Order cannot accompliſh the end for which deſigned, by reaſon ſuch Officers who will be ſo unjuſt as to abuſe His Majeſty's Service, Wages, as well as tho the ſame were made to themſelves.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="8" type="grievance">
+               <head>The Eighth (tho not a poſitive) GRIEVANCE.</head>
+               <head type="sub">Yet as Matter worthy Conſideration, I ſhall hint ſomething touching the ſmallneſs of the able Seamen's Pay, and would not omit the Gunners, Boatſwains, and Carpenters herein.</head>
+               <head type="sub">As for the able Seamen's Pay, it is <hi>24 <abbr>s.</abbr> per</hi> Month, the Deduction from the Regiſtred Seamen's <hi>1 <abbr>s.</abbr>
+                  </hi> and from thoſe that are not Regiſtred <hi>1 <abbr>s.</abbr> 6 <abbr>d.</abbr> per</hi> Month, ſo that their Pay is but <hi>22 <abbr>s.</abbr>
+                  </hi> and <hi>6 <abbr>d.</abbr>
+                  </hi> The Warrant-Officers before-mentioned, have Pay according to the reſpective Rates they are in.</head>
+               <p>If Encouragement be a proper Means to excite to Valour and Diligence in the performance of Duty, as is the receiv'd Opinion of this Govern<g ref="char:EOLhyphen"/>ment, evidenced by doubling the Commiſſion, (and ſome of the Warrant) Officers Pay, with other Encouragements.</p>
+               <p>And unleſs the Common Seamen and Warrant-Officers above-mentioned, are by ſome other Motive ſo diligent or valourous that they need no ſuch Encouragement, or their Service or Truſt ſo ſmall that they deſerve none: It is worthy of Conſideration whether they ought not to have an addition to their Pay; eſpecially conſidering the dearneſs of Proviſion, now beyond what it has been in times paſt.</p>
+            </div>
+            <div n="9" type="grievance">
+               <head>The Ninth GRIEVANCE is,</head>
+               <head type="sub">The Difficulty of obtaining His Majeſty's gracious Bounty allowed the Widows and Children of ſuch as are ſlain in His Majeſty's Service, and the Monies due for the Cloaths of ſuch as die; which Cloaths is generally ſold at the Maſt; ſuch Sea<g ref="char:EOLhyphen"/>men's Families and Relations being at a diſtance, and not knowing where to find the proper Officers to ſign ſuch Certificates as required for the Payment of ſuch Bounty and Cloath-Money: it hath been long delayed, and often-times intirely loſt.</head>
+               <p>As this Caſe is plain, ſo the Redreſs for time to come is eaſy, there needing only an Article to the proper Officers Inſtruction, that immedi<g ref="char:EOLhyphen"/>ately after any ſuch accidents happen, they ſign Certificates of the ſame, and return ſuch Certificates with their Books to the Office.</p>
+               <p>And for the time paſt, that ſuch Certificates for Bounty be diſpenſed with, and Credit given to the Ship's Books which are in the Office, and ſigned by the proper Signing Officers. And for Cloaths to the Slop-Books delivered into the ſame Office.</p>
+            </div>
+            <div n="10" type="grievance">
+               <head>The Tenth GRIEVANCE is,</head>
+               <head type="sub">The Non-payment of the Regiſter'd Seamen, (not to inſiſt on the <hi>40 <abbr>s.</abbr> per Annum</hi> hitherto unpaid) I ſhall only mention the Caſe of the Widows, Friends, and Relations of ſuch as have died in the Service, with reſpect to their Wages.
+<list>
+                     <item>
+                        <hi>1.</hi> Such as die on Voyages to <hi>Holland, France,</hi> the <hi>Narrow-Seas, &amp;c.</hi> their Wages are refuſed be paid according to the Act, it being alledged that ſuch are not Forein Voyages.</item>
+                     <item>
+                        <hi>2.</hi> Such as have been bound out on Forein Voyages, and died before the Ships departure from <hi>England,</hi> their Wages is alſo refuſed.</item>
+                     <item>
+                        <hi>3.</hi> Such as have been on Forein Voyages ſo accounted, and in ſuch Voyages have contracted Sickneſs, whereof they have died immediately after the Ships Return to <hi>England,</hi> their Wages is alſo refuſed, as not intended by the ſaid Act to be paid.</item>
+                     <item>
+                        <hi>4.</hi> Such as have gone out in one Ship, and ſerved a conſiderable time in her, and afterwards turn'd over into another, and there in a few Months died; the Widows of ſuch are paid for the Ships only wherein they died, and not for the former.</item>
+                     <item>
+                        <hi>5.</hi> Such Commiſſion and Warrant-Officers as are Regiſter'd who die on Forein Voyages, their Wages is refuſed, as not in<g ref="char:EOLhyphen"/>tended to be paid by the ſaid Act.</item>
+                  </list>
+               </head>
+               <p>How far this is coherent to the intent of the ſaid Act, and whether thoſe Circumſtances have prevented the Act from having its deſired effect; I ſhall not pretend to determine: but it has doubtleſs more than a little obſtructed the ſame.</p>
+               <p>For the Redreſs whereof, ſhall only alledge the Nations Promiſe by the eſtabliſhed Law, the Peoples Diſtreſs, the Juſtice and Merit of their Cauſe, and the further and future Encouragement for the Seamen to Regiſter themſelves for His Majeſty's Service; the which Redreſs, or ſome other ſuteable Remedy that may engage Seamen to their proper Duty for the Nations Defence, I dare not doubt but will be found, if it be ta<g ref="char:EOLhyphen"/>ken into the Conſideration of this Judicious and Auguſt Aſſembly, the Great Council of the Nation; and that without the great Expence, and irregular Compulſion lately us'd in Impreſſing, or any-wiſe infringing <hi>Magna Charta,</hi> or any other eſtabliſh'd Law of this Realm.</p>
+            </div>
+            <div n="11" type="grievance">
+               <pb facs="tcp:135158:4"/>
+               <head>The Eleventh GRIEVANCE is,</head>
+               <head type="sub">The Government and Diſcipline uſed in the Navy; but there being already good and wholeſome Laws provided, both for ſup<g ref="char:EOLhyphen"/>preſſing Vice, and encouraging Virtue, I have little to ſay, only that the Epidemical abounding of Vice and Debauchery through the whole Fleet, too evidently demonſtrates the Neglect, if not the Contempt of the ſaid Laws: And it would be well if the Practice and Examples of the Superiour-Officers did not ſo much contribute to the ſame; and whether this (with a ſordid and ſlaviſh Puniſhment, (<hi>viz. Whipping</hi> and <hi>Pickling,</hi>) much us'd of late, and that on frivolous Occaſions) do not tend to the daſtardizing of the Spirits of our Engliſh Seamen, and the animating and emboldening our Enemies, and conſe<g ref="char:EOLhyphen"/>quently to the Nations Prejudice, 'twill do well to conſider; and if found to be ſo, to redreſs the ſame.</head>
+               <p>To redreſs this, there is an abſolute neceſſity of the ſtrict obſervance of thoſe Inſtructions given by the Lord High Admiral of <hi>England,</hi> or Lords Commiſſioners for executing that Office, and that as well by the Superiour Officers as the meaneſt Seamen; for whilſt the Superiour Officers are guilty of Vice and Debauchery, it cannot be hoped the ſame ſhould be duly corrected, or effectually ſuppreſſed in the Common Seamen.</p>
+            </div>
+            <div n="12" type="grievance">
+               <head>The Twelfth GRIEVANCE is,</head>
+               <p>The fraudulent Dealing of many that pretend to ſolicite Buſineſs, and receive Wages in the Navy, by which the Seamen are alſo prejudiced; but the Particulars hereof being too long to inſert herein, ſhall at preſent omit the ſame.</p>
+            </div>
+         </div>
+         <div type="address">
+            <pb facs="tcp:135158:5"/>
+            <head>The ADDRESS preſented to the Lords of the Admiralty in <hi>Feb. 1698/9.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>Sect. 1.</head>
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>BEing employ'd by divers Seamen, their Wives, Widows, and others to receive their Wages, meeting with many unexpected Objections to the Payment of the ſame, am oblig'd to addreſs your Lordſhips, as well for thoſe I ſerve, as others under the like Circumſtances; whoſe Caſes in ſome Particulars ſhall humbly lay before your Lordſhips, and pray Relief therein.</p>
+               <p n="1">1. Objection. <hi>Is Querying thoſe that are ſet Sick on Shoar.</hi>
+               </p>
+               <p>As for ſuch Queries, however His Majeſty's Service, and the Nations Safety might require it in time of War (to keep Mariners to their Duty;) an honourable Peace being now concluded, altho' by the ſtrict Rules of the Navy, ſuch Wages may be deny'd; yet there are ſeveral Motives and Rea<g ref="char:EOLhyphen"/>ſons for the taking off thoſe Queries.</p>
+               <list>
+                  <item>1. The Indigency, Poverty and Miſery of thoſe diſtreſſed Seamen, and their Families, were there no other Reaſon, ſeems no ſmall Motive to it; eſpecially conſidering 'tis the Labourer's Hire, and his Families Bread.</item>
+                  <item>2. There were no ſuch Queries until the Year 1690, before which time every Man put on Shore ſick, was thereby diſcharged from the Service, and his Wages duly paid.</item>
+                  <item>3. The great Sickneſs which at, and ſince that time happen'd in the Fleet, was, and is the Foundation of thoſe Queries; the which indeed, conſi<g ref="char:EOLhyphen"/>dering alſo the great Mortality that has likewiſe attended His Majeſty's Service, ſhould rather be Motives for the removing of them.</item>
+                  <item>4. Many of the Perſons that have been put on Shore ſick, being ignorant of thoſe new Rules of the Navy believed themſelves diſcharged as formerly.</item>
+                  <item>5. Many of them have been ſet on Shore ſick ſeveral times, and return'd to ſuch Ships, as ordered, but continuing weak and indiſpoſed, have at laſt repaired to their own Homes for Recovery.</item>
+                  <item>6. Others having been long Voyages and ſick on Board for many Months (ſeeing the Major part of their Aſſociates buried;) to ſuch, after they were ſet ſick on Shore, the thoughts of returning on Board have been dreadful, and deemed the only means to haſten their ends; which accordingly hap<g ref="char:EOLhyphen"/>pen'd to many that did return.</item>
+                  <item>7. It could not be expected that thoſe that have contracted Indiſpoſitions and Diſtempers, by unwholſom Proviſion, or malignant Air, ſhould (after a Months Refreſhment in ſick Quarters, or labouring 6 or 12 Months under their Maladies in an Hoſpital) be fit to return, or capable of doing His Majeſty Service; but the contrary is evident by the Multitude that died ſoon after their return on Board, and others that were again ſet ſick on Shore.</item>
+               </list>
+               <p>Laſtly, Such having faithfully ſerv'd His Majeſty to the imparing of their Healths, and hazard of their Lives; it ſeems not only juſt, but alſo for His Majeſty's Intereſt, and the Credit of his Service to grant them the Wages ſo hardly earn'd.</p>
+               <p>I hope what has been ſaid, with ſuch other Motives, as in Wiſdom, Juſtice and Charity, Your Lordſhips find in your own Breaſts, may prevail for the taking off all Queries.</p>
+               <p>But whatever Your Lordſhips ſhall pleaſe to direct as to the Queries in general, the Circumſtances of ſome are ſuch, that a ſpeedy and general Order ſeems abſolutely neceſſary to remove the ſame.</p>
+               <list>
+                  <item>1. All thoſe that have been ſet on Shore ſick ſince the Peace concluded.</item>
+                  <item>2. Such as after Recovery entred on Board any of His Majeſty's Ships.</item>
+                  <item>3. Such as died in ſick Quarters, Hoſpitals, or Hoſpital-Ships.</item>
+                  <item>4. Such as have been wounded or hurt, and received Penſions, or Smart-Money for the ſame.</item>
+                  <item>5. Such as continued Six Months or upwards in ſick Quarters or Hoſpitals, or have been diſcharged thence incurable.</item>
+                  <item>6. Such as the Captains have diſcharged by Ticket, Sick, Lame, Blind, Infirm, or otherwiſe unfit for His Majeſty's Service, they alone being pro<g ref="char:EOLhyphen"/>per Judges of the ſame.</item>
+               </list>
+               <p>
+                  <hi>It may be objected, That Application being made with good Proof of the laſt mentioned Circumſtances, ſuch Queries may be remov'd.</hi>
+               </p>
+               <p>
+                  <hi>May it pleaſe your Lordſhips to conſider,</hi>
+               </p>
+               <p>The great Inconveniencies that attend ſuch particular Orders, which creates Tumult and Clamour at both Offices, gives advantage to many that ſolicit to exact great part of the Wages for their Aſſiſtance, puts the Poor to great Fatigue and Expence in Attendance, but principally the loſs of the opportunity of the Ships Payment; which may and have caus'd many to ſtay 2 or 3 Years for their Money, or ſell it for half the value.</p>
+               <p>And indeed many of thoſe Queries might be prevented in making up the Pay-Books of each Ships, and of every Perſon under the Circumſtances aforeſaid, notice might be taken on the ſaid Books; the ſick Accounts being in the ſame Office.</p>
+               <p>I ſhall ſay no more touching Queries, only that every DS ſhould be ſo accounted, ſeems contrary to the firſt intent of the ſame; which as I hum<g ref="char:EOLhyphen"/>bly conceive, were for Commanders to put on ſuch as did not return, and not on thoſe whom they ſee cauſe to diſcharge.</p>
+            </div>
+            <div n="2" type="section">
+               <head>Sect. II.</head>
+               <p>
+                  <hi>Another Objection is, Perſons being made Run; ſome of whoſe Circumſtances may alſo claim your Lordſhips Conſideration.</hi>
+               </p>
+               <p n="1">1. Such as never deſign'd to deſert the Service, but being return'd from long Voyages, and the Ships to which they belong being either in Port or Dock, have adventur'd to ſtray from them, either to ſee their Friends in parts adjacent, or provide themſelves Apparel, but meeting with other Ships Companies have been Impreſt, and ſerved in ſuch Ships till diſcharg'd: Such therefore not deſerting the Service, ſhould not be puniſhed as Deſerters, but their RR's taken off, and their Wages paid.</p>
+               <p n="2">2. Thoſe that have ſerved in His Majeſty's Ships, and have been turn'd over from one Ship to another, and after having ſerv'd ſome time in the later, their Tickets for the former have been delivered them, which Tickets by the Parties being ſet Sick on Shoar, or leaving that, or ſome other ſuc<g ref="char:EOLhyphen"/>ceeding Ship, perhaps a Third or Fourth, and two or three Years after ſuch Tickets deliver'd, thoſe Tickets have been Q'd or Run, and the Wages thereby forfeited; with many other Circumſtances of the like nature too tedious to inſert.</p>
+               <p>
+                  <hi>As Motives to take off the ſame I ſhall humbly offer,</hi>
+                  <list>
+                     <item>1. Such as have Tickets delivered them, ſeems in the Eye of Juſtice to have a good Title to their Wages.</item>
+                     <item>2. Thoſe Tickets are and have been eſteem'd as the King's Bonds or Bills of Exchange, and formerly paid at ſight.</item>
+                     <item>3. Many well affected People for promoting His Majeſty's Service and Intereſt, and in Charity to their diſtreſſed Neighbours, have ſupplied them to the Value of their Tickets,</item>
+                     <item>4. The Querying ſuch Tickets has unſpeakably reduc'd the Credit of the Navy, with reſpect to Wages; inſomuch that Tickets formerly ſold at 2 <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6 <hi>
+                           <abbr>d.</abbr> per</hi> Pound loſs, have of late beed ſold at 7 <abbr>
+                           <hi>s.</hi>
+                        </abbr> and ſome at 10 or 12 <abbr>
+                           <hi>s.</hi>
+                        </abbr>
+                     </item>
+                     <item>5. The Miſeries and diſtreſſed Condition of Seamens Families, whoſe Husbands and Relations are ſerving His Majeſty and the Nation, at Sea, being ready to periſh for want of Credit during their abſence; and thoſe who formerly reliev'd them, ſuffering great loſs and damage by thoſe Q's and RR's, are wholly diſcourag'd from continuing the ſame: The Poor therefore muſt inevitably periſh, unleſs relieved by the Alms of the Pariſh, whoſe burthens already are almoſt intolerable, the charge of the Poor being now three times more than before the War, and the major part of thoſe that receive are the Wives, Widows, and Families of ſuch as have ſerv'd His Majeſty during the late War: Much more might be ſaid for the taking off thoſe RR's, yet ſhall only add, that it is not inconſiſtent with Juſtice, but very agreeable to the Laws of God, Charity; Mercy, and Pity, and would not a little contribute to His Majeſty's Intereſt, the Glory of the Nation, a more chearful Contribution to Taxes, the Honour of your Lordſhips, the Relief of the Poor, and Prevention of thoſe clamorous Tumults that attend this Honourable Board.</item>
+                  </list>
+               </p>
+               <pb facs="tcp:135158:6"/>
+               <p>If what has been ſaid may not prevail for the taking off thoſe RR's for time paſt, my humble Requeſt is, That the like may be prevented for the future, which ſeems eaſy, juſt and reaſonable, for thoſe Tickets may be kept by the Commanders, or in the Office; until the Party have ſuch a Right as not to forfeit the ſame, by ſerving ſuch reaſonable time as your Lordſhips ſhall direct, and thoſe Tickets when delivered to the Parties, or any other by their Power, to be good and valid to ſuch Perſons as have a Title to the ſame, which would reduce thoſe exorbitant Loſſes, and give good credit to Tick<g ref="char:EOLhyphen"/>ets as formerly; and whatever other Puniſhment ſhall be judged meet to be inflicted on the Deſerted, beſides forfeiture of Wages due in the Ship he leaves; the ſame may be corporal and not forfeitue of former Pay, by this the Tranſgreſſours will receive their Reward; by the other their Fami<g ref="char:EOLhyphen"/>lies muſt periſh unleſs relieved, and thoſe that ſupply them on the Credit of ſuch Tickets be great Sufferers; and indeed the delivering of ſuch Tick<g ref="char:EOLhyphen"/>ets whilſt they are liable to be forfeited, do but impower the Party to impoſe on, and defraud the Innocent.</p>
+               <p>I purpoſed ſomething touching the Pay, but fearing I have already tranſgreſs'd by Prolixity; for which with whatever elſe may render me obmoxi<g ref="char:EOLhyphen"/>ous to your Lordſhips Cenſure, I humbly beg your Pardon: the deſign hereof being for the relief of the Poor, and free from all thought of Reflec<g ref="char:EOLhyphen"/>tion; ſhall therefore only add, that the People were never better ſerved, His Majeſty's Affairs diſpatch'd, and Frauds prevented, than by the Clerks attending the Pay, when they had liberty to receive Wages. And ſubſcribe, with all Dutiful Reſpects,</p>
+            </div>
+            <closer>
+               <signed>Your Lordſhips moſt Humble and Obedient Servant, <hi>John Dennis.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
